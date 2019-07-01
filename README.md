@@ -1,2 +1,2 @@
 # Etheml
-Ethereum Analytics
+Analytics/ML for Ethereum
