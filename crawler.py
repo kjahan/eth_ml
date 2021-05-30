@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = '8MRNAI14DF6FKACMHDDCTHAF1TPVYJ97RP'
+API_KEY = 'YUOR_API_KEY'
 BASE_URL = 'https://api.etherscan.io/api?module=account'
 
 def get_balance(address):
